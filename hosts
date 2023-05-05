@@ -1,0 +1,10 @@
+[manager]
+3.83.146.133
+
+[worker]
+44.211.206.108
+54.166.23.144
+
+[all:vars]
+ansible_ssh_private_key_file=/Users/urielguy/Documents/projects/ansible/ansible-fc.pem
+ansible_user=ubuntu
